@@ -1,0 +1,616 @@
+
+Here is a map of Not So Super Mario World
+
+X X X M X 
+W G X B K 
+G M X C C 
+X C X X X 
+K X X M X 
+
+X X C X X 
+G X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M G C 
+G X M X C 
+
+-----------------------------------
+Mario has entered the game at row 5, column 2 on level 1
+
+X X X M X 
+W G X B K 
+G M X C C 
+X C X X X 
+K H X M X 
+
+Mario is on level 1 at row 5, column 2 with power level 0 > The position is empty > Mario now has 3 lives and 0 coins >  > Mario will now move left
+
+X X X M X 
+W G X B K 
+G M X C C 
+X C X X X 
+H X X M X 
+
+Mario is on level 1 at row 5, column 1 with power level 0 > Mario fought a koopa and won > Mario now has 3 lives and 0 coins >  > Mario will now move left
+
+X X X M X 
+W G X B K 
+G M X C C 
+X C X X X 
+X X X M H 
+
+Mario is on level 1 at row 5, column 5 with power level 0 > The position is empty > Mario now has 3 lives and 0 coins >  > Mario will now move down
+
+X X X M H 
+W G X B K 
+G M X C C 
+X C X X X 
+X X X M X 
+
+Mario is on level 1 at row 1, column 5 with power level 0 > The position is empty > Mario now has 3 lives and 0 coins >  > Mario will now move right
+
+H X X M X 
+W G X B K 
+G M X C C 
+X C X X X 
+X X X M X 
+
+Mario is on level 1 at row 1, column 1 with power level 0 > The position is empty > Mario now has 3 lives and 0 coins >  > Mario will now move down
+
+X X X M X 
+H G X B K 
+G M X C C 
+X C X X X 
+X X X M X 
+
+Mario is on level 1 at row 2, column 1 with power level 0 > Mario warped to level 2 > Mario now has 3 lives and 0 coins >  > Mario will now move down
+
+X H C X X 
+G X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 1, column 2 with power level 0 > The position is empty > Mario now has 3 lives and 0 coins >  > Mario will now move right
+
+X X H X X 
+G X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 1, column 3 with power level 0 > Mario collected a coin > Mario now has 3 lives and 1 coins >  > Mario will now move down
+
+X X X X X 
+G X H X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 2, column 3 with power level 0 > The position is empty > Mario now has 3 lives and 1 coins >  > Mario will now move up
+
+X X H X X 
+G X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 1, column 3 with power level 0 > The position is empty > Mario now has 3 lives and 1 coins >  > Mario will now move right
+
+X X X H X 
+G X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 1, column 4 with power level 0 > The position is empty > Mario now has 3 lives and 1 coins >  > Mario will now move right
+
+X X X X H 
+G X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 1, column 5 with power level 0 > The position is empty > Mario now has 3 lives and 1 coins >  > Mario will now move right
+
+H X X X X 
+G X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 1, column 1 with power level 0 > The position is empty > Mario now has 3 lives and 1 coins >  > Mario will now move down
+
+X X X X X 
+H X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 2, column 1 with power level 0 > Mario fought a goomba and won > Mario now has 3 lives and 1 coins >  > Mario will now move left
+
+X X X X X 
+X X X X H 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 2, column 5 with power level 0 > The position is empty > Mario now has 3 lives and 1 coins >  > Mario will now move up
+
+X X X X H 
+X X X X X 
+X G X W X 
+C K M M C 
+K M B X X 
+
+Mario is on level 2 at row 1, column 5 with power level 0 > The position is empty > Mario now has 3 lives and 1 coins >  > Mario will now move up
+
+X X X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+K M B X H 
+
+Mario is on level 2 at row 5, column 5 with power level 0 > The position is empty > Mario now has 3 lives and 1 coins >  > Mario will now move right
+
+X X X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+H M B X X 
+
+Mario is on level 2 at row 5, column 1 with power level 0 > Mario fought a koopa and lost but will try to fight him again > Mario fought a koopa and won > Mario now has 2 lives and 1 coins >  > Mario will now move down
+
+H X X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 1 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X H X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 2 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X X H X X 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 3 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X X X H X 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 4 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move down
+
+X X X X X 
+X X X H X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 4 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X X X X X 
+X X X X H 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 5 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X X X X X 
+H X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 1 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move up
+
+H X X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 1 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move left
+
+X X X X H 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 5 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move left
+
+X X X H X 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 4 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move down
+
+X X X X X 
+X X X H X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 4 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move left
+
+X X X X X 
+X X H X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 3 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move left
+
+X X X X X 
+X H X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 2 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move left
+
+X X X X X 
+H X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 1 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X X X X X 
+X H X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 2 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X X X X X 
+X X H X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 3 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move left
+
+X X X X X 
+X H X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 2, column 2 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move up
+
+X H X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 2 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move left
+
+H X X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+X M B X X 
+
+Mario is on level 2 at row 1, column 1 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move up
+
+X X X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+H M B X X 
+
+Mario is on level 2 at row 5, column 1 with power level 0 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X X X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+X H B X X 
+
+Mario is on level 2 at row 5, column 2 with power level 0 > Mario ate a mushroom > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X X X X X 
+X X X X X 
+X G X W X 
+C K M M C 
+X X H X X 
+
+Mario is on level 2 at row 5, column 3 with power level 1 > Mario fought a boss and won, and will now warp to level3 > Mario now has 2 lives and 1 coins >  > Mario will now move right
+
+X M X X B 
+X X X X X 
+K C K X X 
+H X M G C 
+G X M X C 
+
+Mario is on level 3 at row 4, column 1 with power level 1 > The position is empty > Mario now has 2 lives and 1 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M G H 
+G X M X C 
+
+Mario is on level 3 at row 4, column 5 with power level 1 > Mario collected a coin > Mario now has 2 lives and 2 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M H X 
+G X M X C 
+
+Mario is on level 3 at row 4, column 4 with power level 1 > Mario fought a goomba and won > Mario now has 2 lives and 2 coins >  > Mario will now move right
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X H 
+G X M X C 
+
+Mario is on level 3 at row 4, column 5 with power level 1 > The position is empty > Mario now has 2 lives and 2 coins >  > Mario will now move right
+
+X M X X B 
+X X X X X 
+K C K X X 
+H X M X X 
+G X M X C 
+
+Mario is on level 3 at row 4, column 1 with power level 1 > The position is empty > Mario now has 2 lives and 2 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X H 
+G X M X C 
+
+Mario is on level 3 at row 4, column 5 with power level 1 > The position is empty > Mario now has 2 lives and 2 coins >  > Mario will now move down
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+G X M X H 
+
+Mario is on level 3 at row 5, column 5 with power level 1 > Mario collected a coin > Mario now has 2 lives and 3 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+G X M H X 
+
+Mario is on level 3 at row 5, column 4 with power level 1 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+G X H X X 
+
+Mario is on level 3 at row 5, column 3 with power level 1 > Mario ate a mushroom > Mario now has 2 lives and 3 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+G H X X X 
+
+Mario is on level 3 at row 5, column 2 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+H X X X X 
+
+Mario is on level 3 at row 5, column 1 with power level 2 > Mario fought a goomba and won > Mario now has 2 lives and 3 coins >  > Mario will now move up
+
+X M X X B 
+X X X X X 
+K C K X X 
+H X M X X 
+X X X X X 
+
+Mario is on level 3 at row 4, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move down
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+H X X X X 
+
+Mario is on level 3 at row 5, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move up
+
+X M X X B 
+X X X X X 
+K C K X X 
+H X M X X 
+X X X X X 
+
+Mario is on level 3 at row 4, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X H 
+X X X X X 
+
+Mario is on level 3 at row 4, column 5 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move right
+
+X M X X B 
+X X X X X 
+K C K X X 
+H X M X X 
+X X X X X 
+
+Mario is on level 3 at row 4, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move down
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+H X X X X 
+
+Mario is on level 3 at row 5, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move right
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+X H X X X 
+
+Mario is on level 3 at row 5, column 2 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move up
+
+X M X X B 
+X X X X X 
+K C K X X 
+X H M X X 
+X X X X X 
+
+Mario is on level 3 at row 4, column 2 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move down
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+X H X X X 
+
+Mario is on level 3 at row 5, column 2 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K C K X X 
+X X M X X 
+H X X X X 
+
+Mario is on level 3 at row 5, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move up
+
+X M X X B 
+X X X X X 
+K C K X X 
+H X M X X 
+X X X X X 
+
+Mario is on level 3 at row 4, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move right
+
+X M X X B 
+X X X X X 
+K C K X X 
+X H M X X 
+X X X X X 
+
+Mario is on level 3 at row 4, column 2 with power level 2 > The position is empty > Mario now has 2 lives and 3 coins >  > Mario will now move up
+
+X M X X B 
+X X X X X 
+K H K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 3, column 2 with power level 2 > Mario collected a coin > Mario now has 2 lives and 4 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+H X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 3, column 1 with power level 2 > Mario fought a koopa and lost > Mario now has 2 lives and 4 coins >  > Mario will now move left
+
+X M X X B 
+X X X X X 
+K X K X H 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 3, column 5 with power level 1 > The position is empty > Mario now has 2 lives and 4 coins >  > Mario will now move up
+
+X M X X B 
+X X X X H 
+K X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 2, column 5 with power level 1 > The position is empty > Mario now has 2 lives and 4 coins >  > Mario will now move right
+
+X M X X B 
+H X X X X 
+K X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 2, column 1 with power level 1 > The position is empty > Mario now has 2 lives and 4 coins >  > Mario will now move up
+
+H M X X B 
+X X X X X 
+K X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 1, column 1 with power level 1 > The position is empty > Mario now has 2 lives and 4 coins >  > Mario will now move right
+
+X H X X B 
+X X X X X 
+K X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 1, column 2 with power level 1 > Mario ate a mushroom > Mario now has 2 lives and 4 coins >  > Mario will now move left
+
+H X X X B 
+X X X X X 
+K X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 1, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 4 coins >  > Mario will now move right
+
+X H X X B 
+X X X X X 
+K X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 1, column 2 with power level 2 > The position is empty > Mario now has 2 lives and 4 coins >  > Mario will now move left
+
+H X X X B 
+X X X X X 
+K X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 1, column 1 with power level 2 > The position is empty > Mario now has 2 lives and 4 coins >  > Mario will now move left
+
+X X X X H 
+X X X X X 
+K X K X X 
+X X M X X 
+X X X X X 
+
+Mario is on level 3 at row 1, column 5 with power level 2 > Mario fought a boss and lost but will try to fight him again > Mario fought a boss and lost but will try to fight him again > Mario fought the final boss and won
+Mario won after 73 moves !!!

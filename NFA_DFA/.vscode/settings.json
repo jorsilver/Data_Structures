@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "files.associations": {
+        "istream": "cpp",
+        "vector": "cpp",
+        "map": "cpp",
+        "algorithm": "cpp"
+    }
+}
